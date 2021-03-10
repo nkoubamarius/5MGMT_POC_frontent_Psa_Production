@@ -1,6 +1,4 @@
-#DEMO LINKEDIN CLONE
-
-https://react-linkedin-clone.netlify.app/
+#5MGMT POC FRONTEND PSA PRODUCTION
 
 #Login Page
 <img src="login.png">
