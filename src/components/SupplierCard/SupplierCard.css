@@ -1,0 +1,46 @@
+.supplierCard {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 10px;
+  border: 1px solid lightgrey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.supplierCard__img {
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+}
+
+.buttons {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons > button {
+  font-size: 1em;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.green {
+  background-color: lightseagreen;
+}
+
+.blue {
+  background-color: #0074b1;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
